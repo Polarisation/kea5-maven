@@ -1,1 +1,3 @@
 target
+kea-demo/testdocs/*/model
+kea-demo/testdocs/*/test/*.key
